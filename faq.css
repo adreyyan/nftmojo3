@@ -513,8 +513,8 @@ button {
 		font-size: 14px;
 	}
 	.brandlogo img {
-    margin-left: -150%;
-		width: 65px;
+    margin-left: 5;
+		width: 45px;
 	}
   body {
     min-height: 100vh;
