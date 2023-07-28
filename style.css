@@ -355,8 +355,8 @@ video {
     left: -14px;
 }
 .brandlogo img {
-  margin-left: 5;
-  width: 45px;
+    margin-left: -150%;
+    width: 65px;
 }
 
 @media only screen and (min-width: 48rem) {
