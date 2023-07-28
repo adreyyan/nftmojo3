@@ -355,11 +355,15 @@ video {
     left: -14px;
 }
 .brandlogo img {
-    margin-left: -150%;
-    width: 65px;
+  margin-left: 5;
+  width: 45px;
 }
 
 @media only screen and (min-width: 48rem) {
+  .brandlogo img {
+    margin-left: 5;
+		width: 45px;
+	}
   .menu {
     position: relative;
     top: 0;
@@ -509,22 +513,15 @@ video {
 }
 
 @media (max-width: 600px) {
-	  .brandlogo img {
+  .brandlogo img {
     margin-left: 5;
 		width: 45px;
 	}
-	.brandlogo {
-    display: none;
-  }
-
 	.menu-block {
 		padding: 5px 30px;
 		font-size: 14px;
 	}
-	.brandlogo img {
-    margin-left: -150%;
-		width: 65px;
-	}
+
   .header {
     backdrop-filter: none;
     top: 0;
