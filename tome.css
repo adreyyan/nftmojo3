@@ -526,9 +526,6 @@ video {
 }
 
 @media (max-width: 600px) {
-.brandlogo {
-    display: none;
-  }
 
   .body {
     background-size: 100%;
@@ -916,9 +913,7 @@ video {
 }
 
 @media only screen and (min-width: 48rem) {
-  .brandlogo img {
-    justify-content: center;
-	}
+  
   .menu {
     position: relative;
     top: 0;
