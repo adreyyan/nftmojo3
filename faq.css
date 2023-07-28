@@ -548,6 +548,10 @@ button {
 }
 
 @media (max-width: 768px) {
+	.brandlogo {
+    display: none;
+  }
+
   .h1 { 
     text-align: center;
   }
