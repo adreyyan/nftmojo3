@@ -539,3 +539,10 @@ video {
   }
 
 }
+@media (max-width: 768px) {
+  
+  .brandlogo img {
+    margin-left: 5;
+		width: 45px;
+	}
+}
