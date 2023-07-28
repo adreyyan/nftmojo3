@@ -509,6 +509,10 @@ video {
 }
 
 @media (max-width: 600px) {
+	  .brandlogo img {
+    margin-left: 5;
+		width: 45px;
+	}
 	.brandlogo {
     display: none;
   }
