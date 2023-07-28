@@ -78,7 +78,7 @@ font-family: 'Courier New', Courier, monospace;
   .team-section {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start; /* changed to move the boxes to the left */
+    justify-content: center; /* changed to move the boxes to the left */
     align-items: center;
     margin-top: 50px;
     max-width: 800px; /* added to make the boxes smaller */
