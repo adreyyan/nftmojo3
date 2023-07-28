@@ -509,6 +509,10 @@ video {
 }
 
 @media (max-width: 600px) {
+	.brandlogo {
+    display: none;
+  }
+
 	.menu-block {
 		padding: 5px 30px;
 		font-size: 14px;
