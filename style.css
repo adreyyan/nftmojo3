@@ -355,14 +355,13 @@ video {
     left: -14px;
 }
 .brandlogo img {
-    margin-left: -150%;
-    width: 65px;
+  margin-left: -150%;
+  width: 65px;
 }
 
 @media only screen and (min-width: 48rem) {
   .brandlogo img {
-    margin-left: 5;
-		width: 45px;
+    justify-content: center;
 	}
   .menu {
     position: relative;
@@ -500,10 +499,6 @@ video {
 }
 
 @media (min-width: 768px) {
-	.brandlogo img {
-    margin-left: 5;
-		width: 45px;
-	}
   .banner-column {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     justify-content: center;
