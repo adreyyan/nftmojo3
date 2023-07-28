@@ -526,6 +526,10 @@ video {
 }
 
 @media (max-width: 600px) {
+.brandlogo {
+    display: none;
+  }
+
   .body {
     background-size: 100%;
   }
